@@ -24,3 +24,10 @@ You can click the Preview link to take a look at your changes.
 <!--
 [![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=tokyonight)
 -->
+
+### My Skill (Programming Languages, Frameworks and Tools)
+<img src="https://skillicons.dev/icons?i=c,python,pytorch,tensorflow,cpp,bash,r,html,css,js,fortran,latex,vscode,atom,git,linux,md,vim,vscode" /> <br /><br />
+
+### NOW TRAINING (Programming Languages, Frameworks and Tools)
+<img src="https://skillicons.dev/icons?i=django,nginx,powershell,aws,gcp,docker,github,discord,raspberrypi" /> <br /><br />
+
