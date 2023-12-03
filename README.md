@@ -3,6 +3,8 @@ L3onSW/L3onSW is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
+<!---Private Respositoryの内容を反映されていないので，今後反映させる--->
+
 ### Hello there 👋
 
 <!--
@@ -14,15 +16,15 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <p align="left"> 
-  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&show_icons=true&theme=shadow_red" />
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&theme=shadow_red" />
+  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
 </p>
 
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=shadow_red&column=7)](https://github.com/L3onSW/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=github_dark&column=7)](https://github.com/L3onSW/github-profile-trophy)
 -->
 <!--
-[![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=shadow_red)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=shadow_red)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)
 -->
 
 ### My Skill (Programming Languages, Frameworks and Tools)
