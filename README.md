@@ -14,15 +14,15 @@ You can click the Preview link to take a look at your changes.
 -->
 
 <p align="left"> 
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&show_icons=true&theme=shadow_red" />
+  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&theme=shadow_red" />
 </p>
 
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=tokyonight&column=7)](https://github.com/L3onSW/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=shadow_red&column=7)](https://github.com/L3onSW/github-profile-trophy)
 -->
 <!--
-[![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=tokyonight)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=shadow_red)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=shadow_red)
 -->
 
 ### My Skill (Programming Languages, Frameworks and Tools)
