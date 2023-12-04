@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
 -->
 
 ### My Skill (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=c,python,pytorch,tensorflow,cpp,bash,r,html,css,js,fortran,latex,md,git,linux,vim,vscode,atom" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,python,pytorch,tensorflow,cpp,bash,r,html,css,js,fortran,latex,md,linux,vim,vscode,atom" /> <br /><br />
 
 ### NOW TRAINING (Programming Languages, Frameworks and Tools)
-<img src="https://skillicons.dev/icons?i=django,nginx,powershell,aws,gcp,docker,github,discord,raspberrypi" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=django,nginx,powershell,aws,gcp,docker,git,github,discord,raspberrypi" /> <br /><br />
 
