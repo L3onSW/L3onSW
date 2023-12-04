@@ -3,7 +3,7 @@ L3onSW/L3onSW is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<!---Private Respositoryの内容を反映されていないので，今後反映させる--->
+<!---Private Respositoryの内容が反映されていないので，今後反映させる--->
 
 # Hello there, I'm L3onSW 👋
 
