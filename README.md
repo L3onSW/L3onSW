@@ -15,10 +15,12 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 -->
 
+<!--
 <p align="left"> 
   <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
   <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
 </p>
+-->
 
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=github_dark&column=7)](https://github.com/L3onSW/github-profile-trophy)
