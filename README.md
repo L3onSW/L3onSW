@@ -7,6 +7,9 @@ You can click the Preview link to take a look at your changes.
 
 # Hello there, I'm L3onSW 👋
 
+- 🤗 25歳の男です．
+- 😊 GitHubには，勉強・趣味で作ったものなどを載せるつもりです...
+
 <!--
 - 👋 Hi, I’m @L3onSW
 - 👀 I’m interested in ...
