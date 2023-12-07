@@ -123,8 +123,8 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=git">
   </a>
   
-  <!-- Github --> <!-- 自分のトップページにしているが変かも?? -->
-  <a href="https://github.com/L3onSW" target="_blank" rel="noreferrer">
+  <!-- Github -->
+  <a href="https://github.co.jp/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=github">
   </a>
   
