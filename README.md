@@ -5,10 +5,10 @@ You can click the Preview link to take a look at your changes.
 
 <!---Private Respositoryの内容が反映されていないので，今後反映させる--->
 
-# Hello there, I'm L3onSW 👋
+# Hello there, I'm L3onSW :wave:
 
-- 🤗 性別は男です． (My pronouns are he/him.)
-- 😊 GitHubには，勉強・趣味で作ったものなどを載せるつもりです...
+- 性別は男です． (My pronouns are he/him.) 
+- GitHub :octocat: には，勉強・趣味で作ったものなどを載せるつもりです...
 
 <!--
 - 👋 Hi, I’m @L3onSW
@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
 [![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)
 -->
 
-### 使ったことがあるもの
+### 使ったことがあるもの (My Skill) :hatched_chick:
 <p align="left"> 
   <!-- Python -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
   -->
 </p>
 
-### 最近，勉強を始めたもの
+### 最近，勉強を始めたもの (Now Trainning) :hatching_chick:
 <p align="left"> 
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
