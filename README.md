@@ -96,7 +96,7 @@ You can click the Preview link to take a look at your changes.
   -->
 </p>
 
-### 最近，勉強を始めたもの (Now Trainning) :hatching_chick:
+### 最近，勉強を始めたもの (Now Training) :hatching_chick:
 <p align="left"> 
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
