@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 # Hello there, I'm L3onSW :wave:
 
 - 性別は男です． (My pronouns are he/him.) 
-- GitHub :octocat: には，勉強・趣味で作ったものなどを載せるつもりです...
+- GitHub :octocat: には，勉強・趣味で作ったものなどの管理に使うつもりです...
 
 <!--
 - 👋 Hi, I’m @L3onSW
