@@ -3,12 +3,10 @@ L3onSW/L3onSW is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-<!---Private Respositoryの内容が反映されていないので，今後反映させる--->
-
 # Hello there, I'm L3onSW :wave:
 
-- 性別は男です． (My pronouns are he/him.) 
-- GitHub :octocat: は，勉強・趣味で作ったものなどの管理に使うつもりです...
+- :blush: 性別は男です． (My pronouns are he/him.) 
+- :innocent: 勉強・趣味で作ったものなどの管理に使うつもりです... (I'm struggling ...) 
 
 <!--
 - 👋 Hi, I’m @L3onSW
@@ -18,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 -->
 
-
+<!---Private Respositoryの内容が反映されていないので，今後反映できるようにする--->
 <!--
 <p align="left"> 
   <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
@@ -26,9 +24,15 @@ You can click the Preview link to take a look at your changes.
 </p>
 -->
 
+<!-- トロフィーの表示 --> 
+<!-- プライベートリポジトリでコミットしまくった結果コミット数だけ多くて恥ずかしいので表示しない -->
+<!-- もう少し色々がんばったら表示しても良いかも -->
 <!--
-[![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=github_dark&column=7)](https://github.com/L3onSW/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=darkhub&column=4)](https://github.com/L3onSW/github-profile-trophy)
 -->
+
+<!-- プライベートリポジトリでコミットしまくった結果コミット数だけ多くて恥ずかしいので表示しない -->
+<!-- もう少し色々がんばったら表示しても良いかも -->
 <!--
 [![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)
 -->
@@ -49,10 +53,25 @@ You can click the Preview link to take a look at your changes.
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=cpp">
   </a>
-  
+
   <!-- Bash -->
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=bash">
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/pages/download/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linux">
+  </a>
+  
+  <!-- PyTorch -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=pytorch">
+  </a>
+
+  <!-- TensorFlow -->
+  <a href="https://www.tensorflow.org/?hl=ja" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tensorflow">
   </a>
   
   <!-- HTML -->
@@ -75,25 +94,39 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=fortran">
   </a>
   
-  <!-- LaTex -->
+  <!-- LaTeX -->
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=latex">
   </a>
   
-  <!-- エディタ載せると変かも?? -->
-  <!-- Vim -->
+  <!-- Neovim --> <!-- エディタ載せると変かも?? -->
+  <!-- 
+  <a href="https://neovim.io/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=neovim">
+  </a>
+  -->
+
+  <!-- Vim --> <!-- エディタ載せると変かも?? -->
   <!-- 
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vim">
   </a>
   -->
   
-  <!-- Visual Studio Code -->
+  <!-- Visual Studio Code --> <!-- エディタ載せると変かも?? -->
   <!-- 
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=vscode">
   </a>
   -->
+
+  <!-- Emacs --> <!-- エディタ載せると変かも?? -->
+  <!-- 
+  <a href="https://www.gnu.org/software/emacs/ target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=emacs">
+  </a>
+  -->
+  
 </p>
 
 ### 最近，勉強を始めたもの (Now Training) :hatching_chick:
@@ -101,6 +134,16 @@ You can click the Preview link to take a look at your changes.
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=django">
+  </a>
+
+  <!-- Nginx -->
+  <a href="https://nginx.org/en/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=nginx">
+  </a>
+
+  <!-- React -->
+  <a href="https://ja.react.dev/blog/2023/03/16/introducing-react-dev" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=react">
   </a>
   
   <!-- AWS (Amazon Web Services) -->
@@ -118,6 +161,11 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=docker">
   </a>
   
+  <!-- Kubernetes (K8s) -->
+  <a href="https://kubernetes.io/ja/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=kubernetes">
+  </a>
+  
   <!-- Git -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=git">
@@ -133,3 +181,46 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=raspberrypi">
   </a>
 </p>
+
+<!--
+### 連絡先 (Contact)
+<p>
+-->
+  <!-- Linkedin -->
+  <!--
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin">
+  </a>
+  -->
+
+  <!-- Discord -->
+  <!--
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=discord">
+  </a>
+  -->
+
+  <!-- Stack Overflow -->
+  <!--
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=stackoverflow">
+  </a>
+  -->
+
+  <!-- Twitter (X) -->
+  <!--
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=twitter">
+  </a>
+  -->
+  
+  <!-- Instagram -->
+  <!--
+  <a href="" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=instagram">
+  </a>
+  -->
+
+<!--  
+</p>
+-->
