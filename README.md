@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 <!-- -->
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats-l3onsws-projects.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&hide=jupyter%20notebook,tex,vim%20script&theme=github_dark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-l3onsws-projects.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&theme=github_dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-l3onsws-projects.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&theme=github_dark&rank_icon=github" />
 </p>
 
 
