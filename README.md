@@ -16,13 +16,12 @@ You can click the Preview link to take a look at your changes.
 - 📫 How to reach me ...
 -->
 
-<!---Private Respositoryの内容が反映されていないので，今後反映できるようにする--->
-<!--
+<!-- -->
 <p align="left"> 
-  <img alt="github stats" height="130px" src="https://github-readme-stats.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&show_icons=true&theme=github_dark" />
-  <img alt="Top Langs" height="130px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-l3onsws-projects.vercel.app/api/top-langs/?username=L3onSW&layout=compact&count_private=true&show_icons=true&theme=github_dark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats-l3onsws-projects.vercel.app/api?username=L3onSW&count_private=true&show_icons=true&theme=github_dark" />
 </p>
--->
+
 
 <!-- トロフィーの表示 --> 
 <!-- プライベートリポジトリでコミットしまくった結果コミット数だけ多くて恥ずかしいので表示しない -->
@@ -36,7 +35,7 @@ You can click the Preview link to take a look at your changes.
 <!--
 [![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)
 -->
-
+ 
 ### 使ったことがあるもの (My Skill) :hatched_chick:
 <p align="left"> 
   <!-- Python -->
