@@ -27,13 +27,13 @@ You can click the Preview link to take a look at your changes.
 
 
 <!-- トロフィーの表示 --> 
-<!-- プライベートリポジトリでコミットしまくった結果コミット数だけ多くて恥ずかしいので表示しない -->
+<!-- プライベートリポジトリにpushしまくった結果コミット数だけ多くて恥ずかしいので表示しない -->
 <!-- もう少し色々がんばったら表示しても良いかも -->
 <!--
 [![trophy](https://github-profile-trophy.vercel.app/?username=L3onSW&theme=darkhub&column=4)](https://github.com/L3onSW/github-profile-trophy)
 -->
 
-<!-- プライベートリポジトリでコミットしまくった結果コミット数だけ多くて恥ずかしいので表示しない -->
+<!-- プライベートリポジトリにpushしまくった結果コミット数だけ多くて恥ずかしいので表示しない -->
 <!-- もう少し色々がんばったら表示しても良いかも -->
 <!--
 [![](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)](https://github-readme-streak-stats.herokuapp.com/?user=L3onSW&theme=github_dark)
@@ -95,7 +95,17 @@ You can click the Preview link to take a look at your changes.
   <a href="https://fortran-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=fortran">
   </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git">
+  </a>
   
+  <!-- Github -->
+  <a href="https://github.co.jp/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github">
+  </a>
+
   <!-- LaTeX -->
   <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=latex">
@@ -133,6 +143,11 @@ You can click the Preview link to take a look at your changes.
 
 ### 最近，勉強を始めたもの (Now Training) :hatching_chick:
 <p align="left"> 
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ts">
+  </a>
+  
   <!-- Django -->
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=django">
@@ -168,20 +183,16 @@ You can click the Preview link to take a look at your changes.
     <img src="https://skillicons.dev/icons?i=kubernetes">
   </a>
   
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git">
-  </a>
-  
-  <!-- Github -->
-  <a href="https://github.co.jp/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github">
-  </a>
-  
   <!-- Raspberry Pi -->
   <a href="https://www.raspberrypi.com/" target="_blank" rel="noreferrer">
     <img src="https://skillicons.dev/icons?i=raspberrypi">
   </a>
+
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres">
+  </a>
+  
 </p>
 
 <!--
