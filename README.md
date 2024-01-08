@@ -10,7 +10,7 @@
 - 🤡 Although I wrote this "README.md" in English, but I usually wrote comments in Japanese...
 </details>
 
-## 🛠️ Languages & Frameworks & Tools
+## 🧑‍💻 Languages & Frameworks & Tools
 ### 🐥 What I am currently working with:
 <!-- Languages -->
 <div align="left">
@@ -78,14 +78,6 @@
 <summary>🐣 What I am currently learning about:</summary>
 
 <div align="left">
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank" alt="Kali Linux">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Kali Linux" />
-  </a>
-  <!-- VirtualBox-->
-  <a href="https://www.virtualbox.org/" target="_blank" alt="VirtualBox">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="VirtualBox" />
-  </a>
   <!-- JavaScript (Vanilla JS)  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" alt="JavaScript (Vanilla JS)">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="JavaScript (Vanilla JS)" />
@@ -93,6 +85,17 @@
   <!-- TypeScript  -->
   <a href="https://www.typescriptlang.org/" target="_blank" alt="TypeScript">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="TypeScript" />
+  </a>
+</div>
+<!-- Frameworks & Tools -->
+<div align="left">
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org/" target="_blank" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Kali Linux" />
+  </a>
+  <!-- VirtualBox-->
+  <a href="https://www.virtualbox.org/" target="_blank" alt="VirtualBox">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="VirtualBox" />
   </a>
   <!-- AWS (Amazon Web Services)  -->
   <a href="https://aws.amazon.com/?nc1=h_ls" target="_blank" alt="AWS (Amazon Web Services)">
