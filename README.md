@@ -7,10 +7,10 @@
 - 🎬 My favorite movies are "STAR WARS" episodes I to Ⅵ. (I also like spin offs.)
 - 🍣 My favorite food is anago sushi.
 - 📗 My favotite comic book is "THE GHOST IN THE SHELL (攻殻機動隊)".
-- 😇 Although I wrote this "README.md" in English, but I usually wrote comments in Japanese...
+- 🤡 Although I wrote this "README.md" in English, but I usually wrote comments in Japanese...
 </details>
 
-## 🧑‍💻 Languages & Frameworks & Tools
+## 🛠️ Languages & Frameworks & Tools
 ### 🐥 What I am currently working with:
 <!-- Languages -->
 <div align="left">
@@ -36,14 +36,6 @@
   <!-- Ubuntu -->
   <a href="https://ubuntu.com/" target="_blank" alt="Ubuntu">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Ubuntu" />
-  </a>
-  <!-- Kali Linux -->
-  <a href="https://www.kali.org/" target="_blank" alt="Kali Linux">
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Kali Linux" />
-  </a>
-  <!-- VirtualBox-->
-  <a href="https://www.virtualbox.org/" target="_blank" alt="VirtualBox">
-    <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="VirtualBox" />
   </a>
   <!-- Visual Studio Code -->
   <a href="https://code.visualstudio.com/" target="_blank" alt="Visual Studio Code">
@@ -86,6 +78,14 @@
 <summary>🐣 What I am currently learning about:</summary>
 
 <div align="left">
+  <!-- Kali Linux -->
+  <a href="https://www.kali.org/" target="_blank" alt="Kali Linux">
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?logo=kalilinux&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Kali Linux" />
+  </a>
+  <!-- VirtualBox-->
+  <a href="https://www.virtualbox.org/" target="_blank" alt="VirtualBox">
+    <img src="https://img.shields.io/badge/VirtualBox-183A61?logo=virtualbox&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="VirtualBox" />
+  </a>
   <!-- JavaScript (Vanilla JS)  -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" alt="JavaScript (Vanilla JS)">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="JavaScript (Vanilla JS)" />
@@ -161,24 +161,6 @@
   <a href="https://twitter.com/L3onSW" target="_blank" alt="Twitter" alt="L3onSW's GitHub">
     <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" style="margin-bottom: 5px;" height="25" alt="Twitter" />
   </a>
-  <!-- Gmail -->
-  <!--
-  <a href="" target="_blank" alt="L3onSW's Gmail">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Gmail"/>
-  </a>
-  -->
-  <!-- Slack -->
-  <!--
-  <a href="" target="_blank" alt="L3onSW's Slack">
-    <img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Slack"/>
-  </a>
-  -->
-  <!-- Discord -->
-  <!--
-  <a href="" target="_blank" alt="L3onSW's Discord">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Discord"/>
-  </a>
-  -->
 </div>
 
 ### 📖 Articles and Scraps
@@ -192,3 +174,23 @@
     <img src="https://img.shields.io/badge/Zenn-3EA8FF?logo=zenn&logoColor=fff&style=for-the-badge" style="margin-bottom: 5px;" height="25" alt="Zenn" />
   </a>
 </div>
+
+<!--
+### 🐙 Cybersecurity training platform
+-->
+<!--
+<div align="left"> -->
+  <!-- Hack The Box -->
+  <!--
+  <a href="" target="_blank" alt="L3on's Hack The Box">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?logo=hackthebox&logoColor=000&style=for-the-badge" alt="hackthebox" style="margin-bottom: 5px;" height="25" alt="Hack The Box" />
+  </a>
+  -->
+  <!-- TryHackMe -->
+  <!--
+  <a href="" target="_blank" alt="L3on's TryHackMe">
+    <img src="https://img.shields.io/badge/TryHackMe-212C42?logo=tryhackme&logoColor=fff&style=for-the-badge" alt="TryHackMe" style="margin-bottom: 5px;" height="25" alt="TryHackMe" />
+  </a>
+  -->
+<!--
+</div> -->
