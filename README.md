@@ -6,7 +6,7 @@
 - 😊 My pronouns are he/him.
 - 🎬 My favorite movies are "STAR WARS" episodes I to Ⅵ. (I also like spin offs.)
 - 🍣 My favorite food is anago sushi.
-- 📗 My favotite manga is "THE GHOST IN THE SHELL (攻殻機動隊)".
+- 📗 My favotite comic book is "THE GHOST IN THE SHELL (攻殻機動隊)".
 - 😇 Although I wrote this "README.md" in English, but I usually wrote comments in Japanese...
 </details>
 
